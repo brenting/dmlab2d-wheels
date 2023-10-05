@@ -1,5 +1,5 @@
 # Repository
-This repo produces wheels of the [dmlab2d](https://github.com/google-deepmind/lab2d) package for CentOS. 2 wheels are already build and can be found in the `wheels` directory:
+This repo produces wheels of the [dmlab2d](https://github.com/google-deepmind/lab2d) package for CentOS using Docker. 2 wheels are already build and can be found in the `wheels` directory:
 - A Python 3.9, CentOS 7 wheel
 - A Python 3.10, CentOS 7 wheel
 
