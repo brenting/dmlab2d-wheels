@@ -3,6 +3,7 @@ This repo produces wheels of the [dmlab2d](https://github.com/google-deepmind/la
 - A Python 3.9, CentOS 7 wheel
 - A Python 3.10, CentOS 7 wheel
 
+These wheels can be installed using `pip install <file_path>.whl`.
 The dockerfile that created these wheels is also included and can be used to compile additional wheels (see next section).
 
 # Build command
